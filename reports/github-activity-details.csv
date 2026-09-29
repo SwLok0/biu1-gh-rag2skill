@@ -1,0 +1,15 @@
+date,activity_type,repository,title_summary,status,url,notes
+2026-03-30T08:50:52Z,Commit,SwLok0/biu1-gh-rag2skill,Initial commit,On master,https://github.com/SwLok0/biu1-gh-rag2skill/commit/7825a7f1977e1ac854458795c3037e5c158f95fa,Direct author SwLok0
+2026-03-30T09:00:08Z,Pull request merge,SwLok0/biu1-gh-rag2skill,PR #1 MVP GitHub repo to OpenClaw SKILL.md extractor,Merged,https://github.com/SwLok0/biu1-gh-rag2skill/pull/1,Merged by SwLok0; authored by Copilot
+2026-03-30T09:00:08Z,Commit,SwLok0/biu1-gh-rag2skill,Merge pull request #1,On master,https://github.com/SwLok0/biu1-gh-rag2skill/commit/061cda48df753cc6b27255ea59d51ee9c1b86562,Direct author SwLok0; merge commit
+2026-03-30T08:59:50Z,Review,SwLok0/biu1-gh-rag2skill,Approval of PR #1,Approved,https://github.com/SwLok0/biu1-gh-rag2skill/pull/1#pullrequestreview-4029078884,Direct account action
+2026-03-30T09:08:14Z,Agent activity,SwLok0/biu1-gh-rag2skill,PR #2 v2 RAG pipeline,Merged,https://github.com/SwLok0/biu1-gh-rag2skill/pull/2,Agent-authored by Claude; relationship verified by merge and co-author records
+2026-03-30T09:41:25Z,Pull request merge,SwLok0/biu1-gh-rag2skill,PR #2 Implement v2 RAG pipeline,Merged,https://github.com/SwLok0/biu1-gh-rag2skill/pull/2,Merged by SwLok0; authored by Claude
+2026-03-30T09:41:14Z,Review,SwLok0/biu1-gh-rag2skill,Approval of PR #2,Approved,https://github.com/SwLok0/biu1-gh-rag2skill/pull/2#pullrequestreview-4029311151,Direct account action
+2026-03-30T09:43:21Z,Commit,SwLok0/biu1-gh-rag2skill,Document V2 architecture and pipeline details,On main,https://github.com/SwLok0/biu1-gh-rag2skill/commit/60f1e751f523faa5d7317484eed8812f5a4051a1,Direct author SwLok0
+2026-03-30T09:41:25Z,Commit,SwLok0/biu1-gh-rag2skill,Merge pull request #2,On main,https://github.com/SwLok0/biu1-gh-rag2skill/commit/4b9bc74f62814173181221bb1decd65451b0a5f2,Direct author SwLok0; merge commit
+2026-03-30T09:41:00Z,Agent activity,SwLok0/biu1-gh-rag2skill,Claude implementation commits for PR #2,Merged,https://github.com/SwLok0/biu1-gh-rag2skill/pull/2/commits,Two implementation commits contain native Co-authored-by sinwulok
+2026-03-31T04:19:36Z,Agent activity,SwLok0/biu1-gh-rag2skill,PR #3 repository structure simplification,Merged,https://github.com/SwLok0/biu1-gh-rag2skill/pull/3,Agent-authored by Copilot; relationship verified by merge and co-author record
+2026-03-31T05:24:27Z,Pull request merge,SwLok0/biu1-gh-rag2skill,PR #3 Simplify repo structure,Merged,https://github.com/SwLok0/biu1-gh-rag2skill/pull/3,Merged by SwLok0; authored by Copilot
+2026-03-31T05:24:27Z,Commit,SwLok0/biu1-gh-rag2skill,Merge pull request #3,On main,https://github.com/SwLok0/biu1-gh-rag2skill/commit/91ac31952b1b03f9ce2b67d6bb569e6ccde5dade,Direct author SwLok0; merge commit
+2026-03-31T05:28:40Z,Agent review activity,SwLok0/biu1-gh-rag2skill,Copilot review summary for PR #3,Commented,https://github.com/SwLok0/biu1-gh-rag2skill/pull/3#pullrequestreview-4034766278,GitHub-native Copilot reviewer record; not direct SwLok0 action
